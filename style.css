@@ -1,0 +1,37 @@
+.travel_mainDiv{
+border: 5px solid rgb(3, 255, 16);
+background-color: rgb(57, 4, 88);
+}
+.travel_mainDiv img{
+    width: 75%;
+    border: 10px solid lightblue;
+    border-radius: 30px;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 30px;
+    font-size: 30px;
+}
+body{
+    background-color: aqua;
+}
+.movie_head{
+    font-size: 30px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head span{
+    color: rgb(229, 255, 0);
+}
+.img{
+    width: 25%;
+}
+.book{
+     margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
